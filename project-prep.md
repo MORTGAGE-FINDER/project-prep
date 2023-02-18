@@ -12,13 +12,13 @@
 - What are the key strengths of each person on the team?
 
 - Domaine: Kaggle, Vercel, Automation, Regex
-  Professional competency to improve: communication competency
+  - Professional competency to improve: communication competency
 - Keyan: Kaggle, Django, Automation, and web scraping
-  Professional competency to improve: Communication 
+  - Professional competency to improve: Communication 
 - Eric: eg … Debugging, Research, Team player, Problem-solving
-  Professional competency to improve: verbalizing my thought process
+  - Professional competency to improve: verbalizing my thought process
 - Brian: math, logic, data analytics, math, regex, math
-  Professional competency to improve: Flexibility
+  - Professional competency to improve: Flexibility
 
 - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
@@ -61,7 +61,8 @@ How will you identify tasks, assign tasks, know when they are complete, and mana
 
 #### Task Tracking
 - To track tasks, a Trello board will be utilized. Each day, team members will move items from the "backlog" to "in progress" under their respective names. When a task is completed, the responsible team member will remove it from the "in progress" column and move it to the "done" column.
-"Meaty" Problems
+
+#### "Meaty" Problems
 - To tackle challenging problems that cannot be resolved during normal work flow, the team will divide into pairs and engage in pair programming.
 
 #### Git Process
