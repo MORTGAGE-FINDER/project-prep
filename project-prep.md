@@ -73,3 +73,5 @@ How will you identify tasks, assign tasks, know when they are complete, and mana
 - The pull request will need to be reviewed by at least two other team members. 
 - After the code review is complete, the team will merge the feature branch into the working branch. 
 - Once all features are finished, the entire team will approve the merge into the main branch.
+
+[Slidedeck for Final](https://docs.google.com/presentation/d/1n77-Owrldss_V6euCm0JpGxxQs5A3LGHyaK_Q0F3AIo/edit#slide=id.g2accd1c413_3_31)
