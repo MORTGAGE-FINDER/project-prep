@@ -60,7 +60,7 @@ How will you identify tasks, assign tasks, know when they are complete, and mana
   - Each team member will state what items for the backlog they accomplished so far, and what items they will work on for the rest of the day.
 
 #### Task Tracking
-- To track tasks, a Trello board will be utilized. Each day, team members will move items from the "backlog" to "in progress" under their respective names. When a task is completed, the responsible team member will remove it from the "in progress" column and move it to the "done" column.
+- To track tasks, a GitHub Projects Kanban will be utilized. Each day, team members will move items from the "backlog" to "in progress" under their respective names. When a task is completed, the responsible team member will remove it from the "in progress" column and move it to the "done" column.
 
 #### "Meaty" Problems
 - To tackle challenging problems that cannot be resolved during normal work flow, the team will divide into pairs and engage in pair programming.
