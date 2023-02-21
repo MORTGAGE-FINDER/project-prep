@@ -43,3 +43,5 @@
 
 
 ![Project Domain](d_model.png)
+
+![Database Schema](db_schema.png)
